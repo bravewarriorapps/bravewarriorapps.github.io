@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://bravewarriorapps.github.io/sitemap.xml
